@@ -1,0 +1,281 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{50EDD1CA-A2D7-2D0B-3CCD-600D97CCC673}") = "FloaterWorld", "Assembly-CSharp-firstpass.csproj", "{51DED9B0-4870-33FA-856B-7453DCC2ECE9}"
+EndProject
+Project("{50EDD1CA-A2D7-2D0B-3CCD-600D97CCC673}") = "FloaterWorld", "Assembly-CSharp.csproj", "{6E7F2403-37B0-DF5F-6618-0A3DDC8AD0BE}"
+EndProject
+Project("{50EDD1CA-A2D7-2D0B-3CCD-600D97CCC673}") = "FloaterWorld", "Assembly-CSharp-Editor.csproj", "{BAC636A8-369F-1BF1-5B37-9AFEB27F9BBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51DED9B0-4870-33FA-856B-7453DCC2ECE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51DED9B0-4870-33FA-856B-7453DCC2ECE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51DED9B0-4870-33FA-856B-7453DCC2ECE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51DED9B0-4870-33FA-856B-7453DCC2ECE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E7F2403-37B0-DF5F-6618-0A3DDC8AD0BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E7F2403-37B0-DF5F-6618-0A3DDC8AD0BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E7F2403-37B0-DF5F-6618-0A3DDC8AD0BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E7F2403-37B0-DF5F-6618-0A3DDC8AD0BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAC636A8-369F-1BF1-5B37-9AFEB27F9BBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAC636A8-369F-1BF1-5B37-9AFEB27F9BBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAC636A8-369F-1BF1-5B37-9AFEB27F9BBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAC636A8-369F-1BF1-5B37-9AFEB27F9BBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																																																														GlobalSection(MonoDevelopProperties) = preSolution
+=======
+																																																					GlobalSection(MonoDevelopProperties) = preSolution
+=======
+																																																		GlobalSection(MonoDevelopProperties) = preSolution
+>>>>>>> 8c85a72a12d1f25fd2dd25ff50b6ed910f306f54
+=======
+<<<<<<< HEAD
+																																																						GlobalSection(MonoDevelopProperties) = preSolution
+=======
+<<<<<<< HEAD
+																																																		GlobalSection(MonoDevelopProperties) = preSolution
+=======
+																																																				GlobalSection(MonoDevelopProperties) = preSolution
+>>>>>>> origin/master
+=======
+																																																		GlobalSection(MonoDevelopProperties) = preSolution
+>>>>>>> 8c85a72a12d1f25fd2dd25ff50b6ed910f306f54
+>>>>>>> 7add026efb2b2a3ced8be88d3c0495bf2170a2f9
+>>>>>>> ac6e9d54c3b62c383acc84e7fe323b98b728e43b
+=======
+<<<<<<< HEAD
+																																																										GlobalSection(MonoDevelopProperties) = preSolution
+=======
+<<<<<<< HEAD
+																																															GlobalSection(MonoDevelopProperties) = preSolution
+>>>>>>> origin/master
+=======
+																																																					GlobalSection(MonoDevelopProperties) = preSolution
+>>>>>>> origin/master
+=======
+																																																							GlobalSection(MonoDevelopProperties) = preSolution
+=======
+<<<<<<< HEAD
+																																																				GlobalSection(MonoDevelopProperties) = preSolution
+>>>>>>> origin/master
+>>>>>>> origin/master
+=======
+																																																									GlobalSection(MonoDevelopProperties) = preSolution
+>>>>>>> origin/master
+=======
+<<<<<<< HEAD
+																																														GlobalSection(MonoDevelopProperties) = preSolution
+=======
+																																																					GlobalSection(MonoDevelopProperties) = preSolution
+>>>>>>> origin/master
+>>>>>>> origin/master
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 159a865638786c325312fd59c2d8e7082f763085
+<<<<<<< HEAD
+>>>>>>> origin/master
+=======
+>>>>>>> origin/master
+>>>>>>> origin/master
+>>>>>>> origin/master
+>>>>>>> origin/master
+=======
+																																																GlobalSection(MonoDevelopProperties) = preSolution
+>>>>>>> 1767f84aa510844c9fdf59e945253007daec96c3
+=======
+<<<<<<< HEAD
+																																															GlobalSection(MonoDevelopProperties) = preSolution
+=======
+																																																									GlobalSection(MonoDevelopProperties) = preSolution
+>>>>>>> origin/master
+<<<<<<< HEAD
+>>>>>>> master
+=======
+>>>>>>> origin/master
+>>>>>>> 1767f84aa510844c9fdf59e945253007daec96c3
+=======
+<<<<<<< HEAD
+																																															GlobalSection(MonoDevelopProperties) = preSolution
+=======
+																																																GlobalSection(MonoDevelopProperties) = preSolution
+>>>>>>> 1767f84aa510844c9fdf59e945253007daec96c3
+=======
+<<<<<<< HEAD
+																																															GlobalSection(MonoDevelopProperties) = preSolution
+=======
+																																																									GlobalSection(MonoDevelopProperties) = preSolution
+>>>>>>> origin/master
+<<<<<<< HEAD
+>>>>>>> master
+=======
+>>>>>>> origin/master
+>>>>>>> 1767f84aa510844c9fdf59e945253007daec96c3
+=======
+<<<<<<< HEAD
+																																																		GlobalSection(MonoDevelopProperties) = preSolution
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+																																												GlobalSection(MonoDevelopProperties) = preSolution
+=======
+																																																GlobalSection(MonoDevelopProperties) = preSolution
+>>>>>>> 1767f84aa510844c9fdf59e945253007daec96c3
+=======
+<<<<<<< HEAD
+>>>>>>> origin/master
+																																															GlobalSection(MonoDevelopProperties) = preSolution
+=======
+																																																									GlobalSection(MonoDevelopProperties) = preSolution
+<<<<<<< HEAD
+>>>>>>> origin/master
+>>>>>>> origin/master
+=======
+>>>>>>> origin/master
+<<<<<<< HEAD
+>>>>>>> master
+=======
+>>>>>>> origin/master
+>>>>>>> 1767f84aa510844c9fdf59e945253007daec96c3
+>>>>>>> origin/master
+>>>>>>> master
+>>>>>>> 0cc307112d94fbce1ee5d105e1a8764ef778573b
+=======
+=======
+																																							GlobalSection(MonoDevelopProperties) = preSolution
+>>>>>>> 78e900c584bdf7dba3a1776e434f93ee29a34634
+=======
+																																									GlobalSection(MonoDevelopProperties) = preSolution
+>>>>>>> a396588114e92d816dab13de113f5e49f426dda7
+=======
+																																						GlobalSection(MonoDevelopProperties) = preSolution
+=======
+																																			GlobalSection(MonoDevelopProperties) = preSolution
+>>>>>>> origin/master
+=======
+>>>>>>> 914c9d76d8e20eb763ec1c93bb2cec1bbfab0d8f
+<<<<<<< HEAD
+																																					GlobalSection(MonoDevelopProperties) = preSolution
+=======
+>>>>>>> master
+<<<<<<< HEAD
+																																				GlobalSection(MonoDevelopProperties) = preSolution
+=======
+																																			GlobalSection(MonoDevelopProperties) = preSolution
+>>>>>>> origin/master
+>>>>>>> master
+<<<<<<< HEAD
+=======
+>>>>>>> e00dab219cbcdd61443661b8aee5c0b77ecc08b5
+>>>>>>> master
+<<<<<<< HEAD
+																																					GlobalSection(MonoDevelopProperties) = preSolution
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+																																					GlobalSection(MonoDevelopProperties) = preSolution
+=======
+>>>>>>> 914c9d76d8e20eb763ec1c93bb2cec1bbfab0d8f
+=======
+<<<<<<< HEAD
+																																						GlobalSection(MonoDevelopProperties) = preSolution
+=======
+=======
+<<<<<<< HEAD
+																																				GlobalSection(MonoDevelopProperties) = preSolution
+=======
+<<<<<<< HEAD
+																																					GlobalSection(MonoDevelopProperties) = preSolution
+=======
+>>>>>>> e58316815ba5f4ea334325c33d55547e50f67080
+>>>>>>> origin/master
+																																			GlobalSection(MonoDevelopProperties) = preSolution
+>>>>>>> origin/master
+=======
+																																				GlobalSection(MonoDevelopProperties) = preSolution
+>>>>>>> d5b58735863ab57b11be0ce0f4437ce4fc40a180
+>>>>>>> master
+=======
+<<<<<<< HEAD
+																													GlobalSection(MonoDevelopProperties) = preSolution
+=======
+																																GlobalSection(MonoDevelopProperties) = preSolution
+>>>>>>> origin/master
+<<<<<<< HEAD
+>>>>>>> master
+=======
+<<<<<<< HEAD
+>>>>>>> origin/master
+=======
+>>>>>>> master
+>>>>>>> d5b58735863ab57b11be0ce0f4437ce4fc40a180
+>>>>>>> master
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.IndentWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+												GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.IndentWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+															GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.IndentWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal
